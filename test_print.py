@@ -6,3 +6,6 @@ print("Hello My Name is Andi Fawzi" \
                 "I am a Cloud Engineer" \
                     "I am a Data Scientist" \
                         "I am a Machine Learning Engineer")
+
+print("Hello, World!")
+print("H")
